@@ -52,10 +52,17 @@
     text-transform: uppercase;
 }
 
+.opcoes-item__cor {
+    color: var(--laranja);
+    font-weight: 700;
+}
+
 .container__titulo,
-.opcoes {
+.opcoes,
+.container__texto {
     display: none;
 }
+
 
 @media screen and (min-width: 1024px) {
 
