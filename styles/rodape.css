@@ -45,6 +45,11 @@ hr {
     .rodape__titulo {
         font-size: 24px;
     }
+
+    .lista-rodape__link:hover {
+        text-decoration: underline;
+
+    }
 }
 
 @media screen and (min-width: 1728px) {
